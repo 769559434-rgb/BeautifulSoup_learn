@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf476ac-9859-4668-8e60-04b4085817a4" name="更改" comment="BeautifulSoup 到CSS搜索" />
+    <list default="true" id="8cf476ac-9859-4668-8e60-04b4085817a4" name="更改" comment="BeautifulSoup 到CSS搜索">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法/07按照CSS搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法/07按照CSS搜索.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/769559434-rgb/BeautifulSoup_learn.git",
@@ -60,6 +68,7 @@
     "Python.05.urllib_get请求的quote的方法.executor": "Run",
     "Python.07urllib_get请求的quote方法.executor": "Run",
     "Python.07副本.executor": "Run",
+    "Python.07按照CSS搜索.executor": "Run",
     "Python.08-urllib_get请求的urlencode方法.executor": "Run",
     "Python.09-urllib_post请求百度翻译.executor": "Run",
     "Python.09..urlibr_post请求百度翻译.executor": "Run",
@@ -67,6 +76,7 @@
     "Python.12-11-urllib_ajax的get请求豆瓣电影前十页.executor": "Run",
     "Python.13xpth的基本使用.executor": "Run",
     "Python.14.req和xpath结合使用.executor": "Run",
+    "Python.CCS选择器全部.executor": "Run",
     "Python.CSV转换JSON.executor": "Run",
     "Python.main.executor": "Run",
     "Python.response响应对象.executor": "Run",
@@ -76,13 +86,19 @@
     "Python.tag标签.executor": "Run",
     "Python.xpath2.executor": "Run",
     "Python.xpath简单.executor": "Run",
+    "Python.古典诗词网.executor": "Run",
+    "Python.古典诗词网一首 (1).executor": "Run",
+    "Python.古诗词第一页全部内容 (1).executor": "Run",
+    "Python.古诗词第一页全部内容.executor": "Run",
     "Python.导航树.executor": "Run",
     "Python.小试牛刀.executor": "Run",
     "Python.小试牛刀bs4 (1).executor": "Run",
+    "Python.构造函数.executor": "Run",
     "Python.测试.executor": "Run",
     "Python.获取wx文章.executor": "Run",
     "Python.遍历文档树.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/爬虫实践",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -90,14 +106,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\爬虫实践\网络爬虫数据采集\BS4实例\古诗词案例\find方法" />
+      <recent name="E:\爬虫实践\网络爬虫数据采集\BS4实例\古诗词案例" />
       <recent name="E:\爬虫实践\网络爬虫数据采集\初始爬虫" />
       <recent name="E:\爬虫实践\爬虫学习\从头开始\BS41" />
       <recent name="E:\爬虫实践\爬虫学习\初见网络爬虫" />
-      <recent name="E:\爬虫实践\豆瓣电影" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06遍历文档树">
-    <configuration name="01基本用法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.构造函数">
+    <configuration name="古诗词第一页全部内容 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫实践" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/find方法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\爬虫实践\网络爬虫数据采集\BeautifulSoup文档用法\01基本用法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/find方法/古诗词第一页全部内容.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.获取链接" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="构造函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫实践" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/CSS选择器方法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法/02.获取链接.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/CSS选择器方法/构造函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04多值属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="古诗词第一页全部内容" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫实践" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法/04多值属性.py" />
+      <option name="SCRIPT_NAME" value="E:\爬虫实践\网络爬虫数据采集\BS4实例\古诗词案例\find方法\古诗词第一页全部内容.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05tag标签" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="古典诗词网一首" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫实践" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\爬虫实践\网络爬虫数据采集\BeautifulSoup文档用法\05tag标签.py" />
+      <option name="SCRIPT_NAME" value="E:\爬虫实践\网络爬虫数据采集\BS4实例\古诗词案例\find方法\古典诗词网一首.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06遍历文档树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CCS选择器全部" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫实践" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BeautifulSoup文档用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/CSS选择器方法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\爬虫实践\网络爬虫数据采集\BeautifulSoup文档用法\06遍历文档树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫数据采集/BS4实例/古诗词案例/CSS选择器方法/CCS选择器全部.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,19 +270,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.01基本用法" />
-      <item itemvalue="Python.02.获取链接" />
-      <item itemvalue="Python.04多值属性" />
-      <item itemvalue="Python.05tag标签" />
-      <item itemvalue="Python.06遍历文档树" />
+      <item itemvalue="Python.CCS选择器全部" />
+      <item itemvalue="Python.古典诗词网一首 (1)" />
+      <item itemvalue="Python.古诗词第一页全部内容" />
+      <item itemvalue="Python.古诗词第一页全部内容 (1)" />
+      <item itemvalue="Python.构造函数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06遍历文档树" />
-        <item itemvalue="Python.04多值属性" />
-        <item itemvalue="Python.05tag标签" />
-        <item itemvalue="Python.02.获取链接" />
-        <item itemvalue="Python.01基本用法" />
+        <item itemvalue="Python.构造函数" />
+        <item itemvalue="Python.CCS选择器全部" />
+        <item itemvalue="Python.古诗词第一页全部内容 (1)" />
+        <item itemvalue="Python.古诗词第一页全部内容" />
+        <item itemvalue="Python.古典诗词网一首 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +302,15 @@
       <option name="presentableId" value="Default" />
       <updated>1755510500682</updated>
     </task>
+    <task id="LOCAL-00001" summary="BeautifulSoup 到CSS搜索">
+      <option name="closed" value="true" />
+      <created>1779927072846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779927072846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

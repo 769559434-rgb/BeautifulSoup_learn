@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\网络爬虫数据采集\BS4实例\古诗词案例\CSS选择器方法\10首古诗词.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\网络爬虫数据采集\BS4实例\古诗词案例\CSS选择器方法\10首古诗词简单函数版.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
